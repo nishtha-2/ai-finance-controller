@@ -4,7 +4,7 @@
 
 An AI Finance Controller that reconciles payment, processor settlement, and bank ledger records, identifies financial discrepancies, and uses grounded AI to explain exceptions and guide finance teams toward the next investigation step.
 
-Built for the Razorpay Buildathon — AI Finance Controller track.
+Built for the **Razorpay Buildathon — AI Finance Controller Track**.
 
 ---
 
@@ -12,40 +12,40 @@ Built for the Razorpay Buildathon — AI Finance Controller track.
 
 Finance operations teams often reconcile payment records against processor settlements and bank statements manually.
 
-This creates several problems:
+As transaction volume grows, this creates several problems:
 
-- Large transaction batches are difficult to reconcile reliably.
 - Missing settlements can remain unnoticed.
-- Amount and date mismatches require manual investigation.
-- Duplicate settlements can create incorrect financial reporting.
-- Bank-side discrepancies may not be visible from processor data alone.
-- Finance teams need explanations, not just a list of mismatches.
+- Payment and settlement amounts may differ.
+- Duplicate settlements can cause incorrect financial reporting.
+- Settlement dates may not align with payment records.
+- Processor data may appear correct while the bank ledger contains discrepancies.
+- Finance teams need to understand **why** an exception occurred, not just know that something failed.
 
 The AI Finance Controller automates this reconciliation loop and surfaces the records that require human attention.
 
 ---
 
-## What It Does
+## What We Built
 
-The system processes three independent sources:
+The system processes three independent financial sources:
 
 ```text
 Payment Records
-      +
+       +
 Processor Settlements
-      +
+       +
 Bank Ledger
-      |
-      v
+       |
+       v
 Deterministic Reconciliation Engine
-      |
-      +----------------------+
-      |                      |
-      v                      v
-Fully Reconciled          Exceptions
-                              |
-                              v
-                       AI Finance Agent
-                              |
-                              v
+       |
+       +-----------------------+
+       |                       |
+       v                       v
+Fully Reconciled           Exceptions
+                               |
+                               v
+                        AI Finance Agent
+                               |
+                               v
                      Grounded Explanation
