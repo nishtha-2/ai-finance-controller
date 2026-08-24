@@ -1,0 +1,2029 @@
+{
+  "total_records": 120,
+  "matched_records": 87,
+  "exception_records": 33,
+  "match_rate": 72.5,
+  "total_expected_amount": 2767035.84,
+  "total_matched_amount": 1935169.04,
+  "exception_amount": 831866.8,
+  "fully_reconciled_records": 87,
+  "bank_exception_records": 18,
+  "results": [
+    {
+      "payment_id": "PAY-00001",
+      "expected_amount": 37142.14,
+      "settled_amount": 37142.14,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00001"
+      ],
+      "bank_amount": 37142.14,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00001"
+      ]
+    },
+    {
+      "payment_id": "PAY-00002",
+      "expected_amount": 4575.21,
+      "settled_amount": 4575.21,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00002"
+      ],
+      "bank_amount": 4575.21,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00002"
+      ]
+    },
+    {
+      "payment_id": "PAY-00003",
+      "expected_amount": 11824.88,
+      "settled_amount": 11824.88,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00003"
+      ],
+      "bank_amount": 11824.88,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00003"
+      ]
+    },
+    {
+      "payment_id": "PAY-00004",
+      "expected_amount": 21121.11,
+      "settled_amount": 21121.11,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00004"
+      ],
+      "bank_amount": 21121.11,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00004"
+      ]
+    },
+    {
+      "payment_id": "PAY-00005",
+      "expected_amount": 17177.46,
+      "settled_amount": 17177.46,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00005"
+      ],
+      "bank_amount": 17177.46,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00005"
+      ]
+    },
+    {
+      "payment_id": "PAY-00006",
+      "expected_amount": 19151.38,
+      "settled_amount": 19151.38,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00006"
+      ],
+      "bank_amount": 19151.38,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00006"
+      ]
+    },
+    {
+      "payment_id": "PAY-00007",
+      "expected_amount": 36554.16,
+      "settled_amount": 36554.16,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00007"
+      ],
+      "bank_amount": 36554.16,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00007"
+      ]
+    },
+    {
+      "payment_id": "PAY-00008",
+      "expected_amount": 14835.62,
+      "settled_amount": 14835.62,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00008"
+      ],
+      "bank_amount": 14835.62,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00008"
+      ]
+    },
+    {
+      "payment_id": "PAY-00009",
+      "expected_amount": 2529.76,
+      "settled_amount": 2529.76,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00009"
+      ],
+      "bank_amount": 2529.76,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00009"
+      ]
+    },
+    {
+      "payment_id": "PAY-00010",
+      "expected_amount": 19161.28,
+      "settled_amount": 19161.28,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00010"
+      ],
+      "bank_amount": 19161.28,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00010"
+      ]
+    },
+    {
+      "payment_id": "PAY-00011",
+      "expected_amount": 10672.97,
+      "settled_amount": 10672.97,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00011"
+      ],
+      "bank_amount": 10672.97,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00011"
+      ]
+    },
+    {
+      "payment_id": "PAY-00012",
+      "expected_amount": 36524.06,
+      "settled_amount": 36524.06,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00012"
+      ],
+      "bank_amount": 36524.06,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00012"
+      ]
+    },
+    {
+      "payment_id": "PAY-00013",
+      "expected_amount": 11175.85,
+      "settled_amount": 11175.85,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00013"
+      ],
+      "bank_amount": 10966.84,
+      "bank_difference": -209.01,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00013"
+      ]
+    },
+    {
+      "payment_id": "PAY-00014",
+      "expected_amount": 13570.11,
+      "settled_amount": 13570.11,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00014"
+      ],
+      "bank_amount": 13570.11,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00014"
+      ]
+    },
+    {
+      "payment_id": "PAY-00015",
+      "expected_amount": 44262.99,
+      "settled_amount": 44262.99,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00015"
+      ],
+      "bank_amount": 44262.99,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00015"
+      ]
+    },
+    {
+      "payment_id": "PAY-00016",
+      "expected_amount": 12519.72,
+      "settled_amount": 12519.72,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00016"
+      ],
+      "bank_amount": 12519.72,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00016"
+      ]
+    },
+    {
+      "payment_id": "PAY-00017",
+      "expected_amount": 20120.18,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 20120.18,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00018",
+      "expected_amount": 37850.16,
+      "settled_amount": 37850.16,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00018"
+      ],
+      "bank_amount": 37850.16,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00018"
+      ]
+    },
+    {
+      "payment_id": "PAY-00019",
+      "expected_amount": 29921.35,
+      "settled_amount": 29423.1,
+      "status": "amount_mismatch",
+      "difference": -498.25,
+      "explanation": "Expected \u20b929,921.35 but settlement reports \u20b929,423.10.",
+      "settlement_ids": [
+        "SET-00019"
+      ],
+      "bank_amount": 29423.1,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00019"
+      ]
+    },
+    {
+      "payment_id": "PAY-00020",
+      "expected_amount": 43073.79,
+      "settled_amount": 43073.79,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00020"
+      ],
+      "bank_amount": 43073.79,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00020"
+      ]
+    },
+    {
+      "payment_id": "PAY-00021",
+      "expected_amount": 5799.72,
+      "settled_amount": 5799.72,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00021"
+      ],
+      "bank_amount": 5799.72,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00021"
+      ]
+    },
+    {
+      "payment_id": "PAY-00022",
+      "expected_amount": 48601.43,
+      "settled_amount": 48601.43,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00022"
+      ],
+      "bank_amount": 48601.43,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00022"
+      ]
+    },
+    {
+      "payment_id": "PAY-00023",
+      "expected_amount": 30546.27,
+      "settled_amount": 30546.27,
+      "status": "date_mismatch",
+      "difference": 0.0,
+      "explanation": "Settlement occurred 8 days after payment; allowed window is 3 days.",
+      "settlement_ids": [
+        "SET-00023"
+      ],
+      "bank_amount": 30546.27,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00023"
+      ]
+    },
+    {
+      "payment_id": "PAY-00024",
+      "expected_amount": 16376.76,
+      "settled_amount": 16376.76,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00024"
+      ],
+      "bank_amount": 16376.76,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00024"
+      ]
+    },
+    {
+      "payment_id": "PAY-00025",
+      "expected_amount": 3131.78,
+      "settled_amount": 3131.78,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00025"
+      ],
+      "bank_amount": 3131.78,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00025"
+      ]
+    },
+    {
+      "payment_id": "PAY-00026",
+      "expected_amount": 48904.73,
+      "settled_amount": 48904.73,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00026"
+      ],
+      "bank_amount": 48732.99,
+      "bank_difference": -171.74,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00026"
+      ]
+    },
+    {
+      "payment_id": "PAY-00027",
+      "expected_amount": 26501.77,
+      "settled_amount": 26501.77,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00027"
+      ],
+      "bank_amount": 26501.77,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00027"
+      ]
+    },
+    {
+      "payment_id": "PAY-00028",
+      "expected_amount": 20099.87,
+      "settled_amount": 20099.87,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00028"
+      ],
+      "bank_amount": 20099.87,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00028"
+      ]
+    },
+    {
+      "payment_id": "PAY-00029",
+      "expected_amount": 12583.3,
+      "settled_amount": 25166.6,
+      "status": "duplicate_settlement",
+      "difference": 12583.3,
+      "explanation": "Found 2 settlement records for one payment.",
+      "settlement_ids": [
+        "SET-00029",
+        "SET-DUP-00029"
+      ],
+      "bank_amount": 12583.3,
+      "bank_difference": -12583.3,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00029"
+      ]
+    },
+    {
+      "payment_id": "PAY-00030",
+      "expected_amount": 11205.81,
+      "settled_amount": 11205.81,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00030"
+      ],
+      "bank_amount": 11205.81,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00030"
+      ]
+    },
+    {
+      "payment_id": "PAY-00031",
+      "expected_amount": 43016.86,
+      "settled_amount": 43016.86,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00031"
+      ],
+      "bank_amount": 43016.86,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00031"
+      ]
+    },
+    {
+      "payment_id": "PAY-00032",
+      "expected_amount": 27076.89,
+      "settled_amount": 27076.89,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00032"
+      ],
+      "bank_amount": 27076.89,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00032"
+      ]
+    },
+    {
+      "payment_id": "PAY-00033",
+      "expected_amount": 9722.89,
+      "settled_amount": 9722.89,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00033"
+      ],
+      "bank_amount": 9722.89,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00033"
+      ]
+    },
+    {
+      "payment_id": "PAY-00034",
+      "expected_amount": 23484.48,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 23484.48,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00035",
+      "expected_amount": 40079.48,
+      "settled_amount": 40079.48,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00035"
+      ],
+      "bank_amount": 40079.48,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00035"
+      ]
+    },
+    {
+      "payment_id": "PAY-00036",
+      "expected_amount": 22568.52,
+      "settled_amount": 22568.52,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00036"
+      ],
+      "bank_amount": 22568.52,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00036"
+      ]
+    },
+    {
+      "payment_id": "PAY-00037",
+      "expected_amount": 43755.68,
+      "settled_amount": 43755.68,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00037"
+      ],
+      "bank_amount": 43755.68,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00037"
+      ]
+    },
+    {
+      "payment_id": "PAY-00038",
+      "expected_amount": 32694.21,
+      "settled_amount": 32227.34,
+      "status": "amount_mismatch",
+      "difference": -466.87,
+      "explanation": "Expected \u20b932,694.21 but settlement reports \u20b932,227.34.",
+      "settlement_ids": [
+        "SET-00038"
+      ],
+      "bank_amount": 32227.34,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00038"
+      ]
+    },
+    {
+      "payment_id": "PAY-00039",
+      "expected_amount": 20469.1,
+      "settled_amount": 20469.1,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00039"
+      ],
+      "bank_amount": 20241.54,
+      "bank_difference": -227.56,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00039"
+      ]
+    },
+    {
+      "payment_id": "PAY-00040",
+      "expected_amount": 357.23,
+      "settled_amount": 357.23,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00040"
+      ],
+      "bank_amount": 357.23,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00040"
+      ]
+    },
+    {
+      "payment_id": "PAY-00041",
+      "expected_amount": 34905.43,
+      "settled_amount": 34905.43,
+      "status": "bank_reversed",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a reversed exception.",
+      "settlement_ids": [
+        "SET-00041"
+      ],
+      "bank_amount": 34905.43,
+      "bank_difference": 0.0,
+      "bank_status": "reversed",
+      "bank_ledger_ids": [
+        "LED-00041"
+      ]
+    },
+    {
+      "payment_id": "PAY-00042",
+      "expected_amount": 11080.62,
+      "settled_amount": 11080.62,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00042"
+      ],
+      "bank_amount": 11080.62,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00042"
+      ]
+    },
+    {
+      "payment_id": "PAY-00043",
+      "expected_amount": 2744.58,
+      "settled_amount": 2744.58,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00043"
+      ],
+      "bank_amount": 2744.58,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00043"
+      ]
+    },
+    {
+      "payment_id": "PAY-00044",
+      "expected_amount": 3658.94,
+      "settled_amount": 3658.94,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00044"
+      ],
+      "bank_amount": 3658.94,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00044"
+      ]
+    },
+    {
+      "payment_id": "PAY-00045",
+      "expected_amount": 12499.21,
+      "settled_amount": 12499.21,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00045"
+      ],
+      "bank_amount": 12499.21,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00045"
+      ]
+    },
+    {
+      "payment_id": "PAY-00046",
+      "expected_amount": 32954.31,
+      "settled_amount": 32954.31,
+      "status": "date_mismatch",
+      "difference": 0.0,
+      "explanation": "Settlement occurred 8 days after payment; allowed window is 3 days.",
+      "settlement_ids": [
+        "SET-00046"
+      ],
+      "bank_amount": 32954.31,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00046"
+      ]
+    },
+    {
+      "payment_id": "PAY-00047",
+      "expected_amount": 12124.63,
+      "settled_amount": 12124.63,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00047"
+      ],
+      "bank_amount": 12124.63,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00047"
+      ]
+    },
+    {
+      "payment_id": "PAY-00048",
+      "expected_amount": 15979.82,
+      "settled_amount": 15979.82,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00048"
+      ],
+      "bank_amount": 15979.82,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00048"
+      ]
+    },
+    {
+      "payment_id": "PAY-00049",
+      "expected_amount": 26997.31,
+      "settled_amount": 26997.31,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00049"
+      ],
+      "bank_amount": 26997.31,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00049"
+      ]
+    },
+    {
+      "payment_id": "PAY-00050",
+      "expected_amount": 43993.69,
+      "settled_amount": 43993.69,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00050"
+      ],
+      "bank_amount": 43993.69,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00050"
+      ]
+    },
+    {
+      "payment_id": "PAY-00051",
+      "expected_amount": 35251.11,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 35251.11,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00052",
+      "expected_amount": 46961.77,
+      "settled_amount": 46961.77,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00052"
+      ],
+      "bank_amount": 46737.14,
+      "bank_difference": -224.63,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00052"
+      ]
+    },
+    {
+      "payment_id": "PAY-00053",
+      "expected_amount": 14267.37,
+      "settled_amount": 14267.37,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00053"
+      ],
+      "bank_amount": 14267.37,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00053"
+      ]
+    },
+    {
+      "payment_id": "PAY-00054",
+      "expected_amount": 24554.46,
+      "settled_amount": 24554.46,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00054"
+      ],
+      "bank_amount": 24554.46,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00054"
+      ]
+    },
+    {
+      "payment_id": "PAY-00055",
+      "expected_amount": 2443.32,
+      "settled_amount": 2443.32,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00055"
+      ],
+      "bank_amount": 2443.32,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00055"
+      ]
+    },
+    {
+      "payment_id": "PAY-00056",
+      "expected_amount": 37126.24,
+      "settled_amount": 37126.24,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00056"
+      ],
+      "bank_amount": 37126.24,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00056"
+      ]
+    },
+    {
+      "payment_id": "PAY-00057",
+      "expected_amount": 3993.38,
+      "settled_amount": 3681.25,
+      "status": "amount_mismatch",
+      "difference": -312.13,
+      "explanation": "Expected \u20b93,993.38 but settlement reports \u20b93,681.25.",
+      "settlement_ids": [
+        "SET-00057"
+      ],
+      "bank_amount": 3681.25,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00057"
+      ]
+    },
+    {
+      "payment_id": "PAY-00058",
+      "expected_amount": 6590.41,
+      "settled_amount": 13180.82,
+      "status": "duplicate_settlement",
+      "difference": 6590.41,
+      "explanation": "Found 2 settlement records for one payment.",
+      "settlement_ids": [
+        "SET-00058",
+        "SET-DUP-00058"
+      ],
+      "bank_amount": 6590.41,
+      "bank_difference": -6590.41,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00058"
+      ]
+    },
+    {
+      "payment_id": "PAY-00059",
+      "expected_amount": 34182.82,
+      "settled_amount": 34182.82,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00059"
+      ],
+      "bank_amount": 34182.82,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00059"
+      ]
+    },
+    {
+      "payment_id": "PAY-00060",
+      "expected_amount": 37536.51,
+      "settled_amount": 37536.51,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00060"
+      ],
+      "bank_amount": 37536.51,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00060"
+      ]
+    },
+    {
+      "payment_id": "PAY-00061",
+      "expected_amount": 9173.19,
+      "settled_amount": 9173.19,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00061"
+      ],
+      "bank_amount": 9173.19,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00061"
+      ]
+    },
+    {
+      "payment_id": "PAY-00062",
+      "expected_amount": 8170.09,
+      "settled_amount": 8170.09,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00062"
+      ],
+      "bank_amount": 8170.09,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00062"
+      ]
+    },
+    {
+      "payment_id": "PAY-00063",
+      "expected_amount": 10178.75,
+      "settled_amount": 10178.75,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00063"
+      ],
+      "bank_amount": 10178.75,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00063"
+      ]
+    },
+    {
+      "payment_id": "PAY-00064",
+      "expected_amount": 1427.31,
+      "settled_amount": 1427.31,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00064"
+      ],
+      "bank_amount": 1427.31,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00064"
+      ]
+    },
+    {
+      "payment_id": "PAY-00065",
+      "expected_amount": 48352.73,
+      "settled_amount": 48352.73,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00065"
+      ],
+      "bank_amount": 48215.57,
+      "bank_difference": -137.16,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00065"
+      ]
+    },
+    {
+      "payment_id": "PAY-00066",
+      "expected_amount": 5988.25,
+      "settled_amount": 5988.25,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00066"
+      ],
+      "bank_amount": 5988.25,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00066"
+      ]
+    },
+    {
+      "payment_id": "PAY-00067",
+      "expected_amount": 5643.03,
+      "settled_amount": 5643.03,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00067"
+      ],
+      "bank_amount": 5643.03,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00067"
+      ]
+    },
+    {
+      "payment_id": "PAY-00068",
+      "expected_amount": 30408.89,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 30408.89,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00069",
+      "expected_amount": 2458.23,
+      "settled_amount": 2458.23,
+      "status": "date_mismatch",
+      "difference": 0.0,
+      "explanation": "Settlement occurred 8 days after payment; allowed window is 3 days.",
+      "settlement_ids": [
+        "SET-00069"
+      ],
+      "bank_amount": 2458.23,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00069"
+      ]
+    },
+    {
+      "payment_id": "PAY-00070",
+      "expected_amount": 21707.05,
+      "settled_amount": 21707.05,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00070"
+      ],
+      "bank_amount": 21707.05,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00070"
+      ]
+    },
+    {
+      "payment_id": "PAY-00071",
+      "expected_amount": 25479.34,
+      "settled_amount": 25479.34,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00071"
+      ],
+      "bank_amount": 25479.34,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00071"
+      ]
+    },
+    {
+      "payment_id": "PAY-00072",
+      "expected_amount": 6582.57,
+      "settled_amount": 6582.57,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00072"
+      ],
+      "bank_amount": 6582.57,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00072"
+      ]
+    },
+    {
+      "payment_id": "PAY-00073",
+      "expected_amount": 28562.99,
+      "settled_amount": 28562.99,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00073"
+      ],
+      "bank_amount": 28562.99,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00073"
+      ]
+    },
+    {
+      "payment_id": "PAY-00074",
+      "expected_amount": 21636.94,
+      "settled_amount": 21636.94,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00074"
+      ],
+      "bank_amount": 21636.94,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00074"
+      ]
+    },
+    {
+      "payment_id": "PAY-00075",
+      "expected_amount": 33862.45,
+      "settled_amount": 33862.45,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00075"
+      ],
+      "bank_amount": 33862.45,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00075"
+      ]
+    },
+    {
+      "payment_id": "PAY-00076",
+      "expected_amount": 14368.37,
+      "settled_amount": 13950.08,
+      "status": "amount_mismatch",
+      "difference": -418.29,
+      "explanation": "Expected \u20b914,368.37 but settlement reports \u20b913,950.08.",
+      "settlement_ids": [
+        "SET-00076"
+      ],
+      "bank_amount": 13950.08,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00076"
+      ]
+    },
+    {
+      "payment_id": "PAY-00077",
+      "expected_amount": 11425.87,
+      "settled_amount": 11425.87,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00077"
+      ],
+      "bank_amount": 11425.87,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00077"
+      ]
+    },
+    {
+      "payment_id": "PAY-00078",
+      "expected_amount": 49200.82,
+      "settled_amount": 49200.82,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00078"
+      ],
+      "bank_amount": 49085.5,
+      "bank_difference": -115.32,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00078"
+      ]
+    },
+    {
+      "payment_id": "PAY-00079",
+      "expected_amount": 24845.26,
+      "settled_amount": 24845.26,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00079"
+      ],
+      "bank_amount": 24845.26,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00079"
+      ]
+    },
+    {
+      "payment_id": "PAY-00080",
+      "expected_amount": 38976.42,
+      "settled_amount": 38976.42,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00080"
+      ],
+      "bank_amount": 38976.42,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00080"
+      ]
+    },
+    {
+      "payment_id": "PAY-00081",
+      "expected_amount": 27980.94,
+      "settled_amount": 27980.94,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00081"
+      ],
+      "bank_amount": 27980.94,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00081"
+      ]
+    },
+    {
+      "payment_id": "PAY-00082",
+      "expected_amount": 49397.65,
+      "settled_amount": 49397.65,
+      "status": "bank_reversed",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a reversed exception.",
+      "settlement_ids": [
+        "SET-00082"
+      ],
+      "bank_amount": 49397.65,
+      "bank_difference": 0.0,
+      "bank_status": "reversed",
+      "bank_ledger_ids": [
+        "LED-00082"
+      ]
+    },
+    {
+      "payment_id": "PAY-00083",
+      "expected_amount": 22434.2,
+      "settled_amount": 22434.2,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00083"
+      ],
+      "bank_amount": 22434.2,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00083"
+      ]
+    },
+    {
+      "payment_id": "PAY-00084",
+      "expected_amount": 42033.18,
+      "settled_amount": 42033.18,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00084"
+      ],
+      "bank_amount": 42033.18,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00084"
+      ]
+    },
+    {
+      "payment_id": "PAY-00085",
+      "expected_amount": 22133.66,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 22133.66,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00086",
+      "expected_amount": 44678.08,
+      "settled_amount": 44678.08,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00086"
+      ],
+      "bank_amount": 44678.08,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00086"
+      ]
+    },
+    {
+      "payment_id": "PAY-00087",
+      "expected_amount": 34774.0,
+      "settled_amount": 69548.0,
+      "status": "duplicate_settlement",
+      "difference": 34774.0,
+      "explanation": "Found 2 settlement records for one payment.",
+      "settlement_ids": [
+        "SET-00087",
+        "SET-DUP-00087"
+      ],
+      "bank_amount": 34774.0,
+      "bank_difference": -34774.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00087"
+      ]
+    },
+    {
+      "payment_id": "PAY-00088",
+      "expected_amount": 27244.9,
+      "settled_amount": 27244.9,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00088"
+      ],
+      "bank_amount": 27244.9,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00088"
+      ]
+    },
+    {
+      "payment_id": "PAY-00089",
+      "expected_amount": 45265.71,
+      "settled_amount": 45265.71,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00089"
+      ],
+      "bank_amount": 45265.71,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00089"
+      ]
+    },
+    {
+      "payment_id": "PAY-00090",
+      "expected_amount": 543.33,
+      "settled_amount": 543.33,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00090"
+      ],
+      "bank_amount": 543.33,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00090"
+      ]
+    },
+    {
+      "payment_id": "PAY-00091",
+      "expected_amount": 37438.9,
+      "settled_amount": 37438.9,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00091"
+      ],
+      "bank_amount": 37368.43,
+      "bank_difference": -70.47,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00091"
+      ]
+    },
+    {
+      "payment_id": "PAY-00092",
+      "expected_amount": 1693.98,
+      "settled_amount": 1693.98,
+      "status": "date_mismatch",
+      "difference": 0.0,
+      "explanation": "Settlement occurred 8 days after payment; allowed window is 3 days.",
+      "settlement_ids": [
+        "SET-00092"
+      ],
+      "bank_amount": 1693.98,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00092"
+      ]
+    },
+    {
+      "payment_id": "PAY-00093",
+      "expected_amount": 45997.2,
+      "settled_amount": 45997.2,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00093"
+      ],
+      "bank_amount": 45997.2,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00093"
+      ]
+    },
+    {
+      "payment_id": "PAY-00094",
+      "expected_amount": 32226.79,
+      "settled_amount": 32226.79,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00094"
+      ],
+      "bank_amount": 32226.79,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00094"
+      ]
+    },
+    {
+      "payment_id": "PAY-00095",
+      "expected_amount": 19110.42,
+      "settled_amount": 18908.54,
+      "status": "amount_mismatch",
+      "difference": -201.88,
+      "explanation": "Expected \u20b919,110.42 but settlement reports \u20b918,908.54.",
+      "settlement_ids": [
+        "SET-00095"
+      ],
+      "bank_amount": 18908.54,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00095"
+      ]
+    },
+    {
+      "payment_id": "PAY-00096",
+      "expected_amount": 37662.49,
+      "settled_amount": 37662.49,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00096"
+      ],
+      "bank_amount": 37662.49,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00096"
+      ]
+    },
+    {
+      "payment_id": "PAY-00097",
+      "expected_amount": 37513.96,
+      "settled_amount": 37513.96,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00097"
+      ],
+      "bank_amount": 37513.96,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00097"
+      ]
+    },
+    {
+      "payment_id": "PAY-00098",
+      "expected_amount": 37773.1,
+      "settled_amount": 37773.1,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00098"
+      ],
+      "bank_amount": 37773.1,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00098"
+      ]
+    },
+    {
+      "payment_id": "PAY-00099",
+      "expected_amount": 6529.49,
+      "settled_amount": 6529.49,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00099"
+      ],
+      "bank_amount": 6529.49,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00099"
+      ]
+    },
+    {
+      "payment_id": "PAY-00100",
+      "expected_amount": 8597.51,
+      "settled_amount": 8597.51,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00100"
+      ],
+      "bank_amount": 8597.51,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00100"
+      ]
+    },
+    {
+      "payment_id": "PAY-00101",
+      "expected_amount": 29039.57,
+      "settled_amount": 29039.57,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00101"
+      ],
+      "bank_amount": 29039.57,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00101"
+      ]
+    },
+    {
+      "payment_id": "PAY-00102",
+      "expected_amount": 29706.87,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 29706.87,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00103",
+      "expected_amount": 40325.02,
+      "settled_amount": 40325.02,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00103"
+      ],
+      "bank_amount": 40325.02,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00103"
+      ]
+    },
+    {
+      "payment_id": "PAY-00104",
+      "expected_amount": 3680.6,
+      "settled_amount": 3680.6,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00104"
+      ],
+      "bank_amount": 3465.2,
+      "bank_difference": -215.4,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00104"
+      ]
+    },
+    {
+      "payment_id": "PAY-00105",
+      "expected_amount": 21817.79,
+      "settled_amount": 21817.79,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00105"
+      ],
+      "bank_amount": 21817.79,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00105"
+      ]
+    },
+    {
+      "payment_id": "PAY-00106",
+      "expected_amount": 9012.81,
+      "settled_amount": 9012.81,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00106"
+      ],
+      "bank_amount": 9012.81,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00106"
+      ]
+    },
+    {
+      "payment_id": "PAY-00107",
+      "expected_amount": 21919.83,
+      "settled_amount": 21919.83,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00107"
+      ],
+      "bank_amount": 21919.83,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00107"
+      ]
+    },
+    {
+      "payment_id": "PAY-00108",
+      "expected_amount": 14126.68,
+      "settled_amount": 14126.68,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00108"
+      ],
+      "bank_amount": 14126.68,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00108"
+      ]
+    },
+    {
+      "payment_id": "PAY-00109",
+      "expected_amount": 1677.82,
+      "settled_amount": 1677.82,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00109"
+      ],
+      "bank_amount": 1677.82,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00109"
+      ]
+    },
+    {
+      "payment_id": "PAY-00110",
+      "expected_amount": 39942.16,
+      "settled_amount": 39942.16,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00110"
+      ],
+      "bank_amount": 39942.16,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00110"
+      ]
+    },
+    {
+      "payment_id": "PAY-00111",
+      "expected_amount": 755.02,
+      "settled_amount": 755.02,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00111"
+      ],
+      "bank_amount": 755.02,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00111"
+      ]
+    },
+    {
+      "payment_id": "PAY-00112",
+      "expected_amount": 27870.02,
+      "settled_amount": 27870.02,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00112"
+      ],
+      "bank_amount": 27870.02,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00112"
+      ]
+    },
+    {
+      "payment_id": "PAY-00113",
+      "expected_amount": 39698.41,
+      "settled_amount": 39698.41,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00113"
+      ],
+      "bank_amount": 39698.41,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00113"
+      ]
+    },
+    {
+      "payment_id": "PAY-00114",
+      "expected_amount": 15483.75,
+      "settled_amount": 15184.69,
+      "status": "amount_mismatch",
+      "difference": -299.06,
+      "explanation": "Expected \u20b915,483.75 but settlement reports \u20b915,184.69.",
+      "settlement_ids": [
+        "SET-00114"
+      ],
+      "bank_amount": 15184.69,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00114"
+      ]
+    },
+    {
+      "payment_id": "PAY-00115",
+      "expected_amount": 49832.42,
+      "settled_amount": 49832.42,
+      "status": "date_mismatch",
+      "difference": 0.0,
+      "explanation": "Settlement occurred 8 days after payment; allowed window is 3 days.",
+      "settlement_ids": [
+        "SET-00115"
+      ],
+      "bank_amount": 49832.42,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00115"
+      ]
+    },
+    {
+      "payment_id": "PAY-00116",
+      "expected_amount": 15504.49,
+      "settled_amount": 31008.98,
+      "status": "duplicate_settlement",
+      "difference": 15504.49,
+      "explanation": "Found 2 settlement records for one payment.",
+      "settlement_ids": [
+        "SET-00116",
+        "SET-DUP-00116"
+      ],
+      "bank_amount": 15504.49,
+      "bank_difference": -15504.49,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00116"
+      ]
+    },
+    {
+      "payment_id": "PAY-00117",
+      "expected_amount": 6197.85,
+      "settled_amount": 6197.85,
+      "status": "bank_amount_mismatch",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules. Settlement matched the payment, but bank ledger has a amount_mismatch exception.",
+      "settlement_ids": [
+        "SET-00117"
+      ],
+      "bank_amount": 6128.08,
+      "bank_difference": -69.77,
+      "bank_status": "amount_mismatch",
+      "bank_ledger_ids": [
+        "LED-00117"
+      ]
+    },
+    {
+      "payment_id": "PAY-00118",
+      "expected_amount": 36298.1,
+      "settled_amount": 36298.1,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00118"
+      ],
+      "bank_amount": 36298.1,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00118"
+      ]
+    },
+    {
+      "payment_id": "PAY-00119",
+      "expected_amount": 11567.29,
+      "settled_amount": null,
+      "status": "missing_settlement",
+      "difference": 11567.29,
+      "explanation": "No settlement record was found for this captured payment.",
+      "settlement_ids": [],
+      "bank_amount": null,
+      "bank_difference": null,
+      "bank_status": "missing_ledger",
+      "bank_ledger_ids": []
+    },
+    {
+      "payment_id": "PAY-00120",
+      "expected_amount": 2514.41,
+      "settled_amount": 2514.41,
+      "status": "matched",
+      "difference": 0.0,
+      "explanation": "Payment amount and settlement date are within the configured matching rules.",
+      "settlement_ids": [
+        "SET-00120"
+      ],
+      "bank_amount": 2514.41,
+      "bank_difference": 0.0,
+      "bank_status": "matched",
+      "bank_ledger_ids": [
+        "LED-00120"
+      ]
+    }
+  ]
+}
